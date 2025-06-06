@@ -1,0 +1,16 @@
+{
+  "name": "MyCustomTheme",
+  "author": "Piotr Kasprowicz",
+  "dark": true,
+  "editorScheme": "/theme/MyCustomTheme.xml",
+  "colors": {
+    "editor.background": "#FFFFFF",
+    "editor.foreground": "#F5F5F5"
+  },
+  "ui": {
+    "*": {
+      "background": "#1E1E1E",
+      "foreground": "CCCCCC"
+    }
+  }
+}
