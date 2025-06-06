@@ -1,0 +1,8 @@
+<scheme name="KotlinTheme" version="142" parent_scheme="Darcula">
+  <colors>
+    <option name="CARET_ROW_COLOR" value="#2f1e3d" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="#2b1a33" />
+    <option name="EDITOR_BACKGROUND" value="#2b1a33" />
+    <option name="GUTTER_BACKGROUND" value="#2b1a33" />
+  </colors>
+</scheme>

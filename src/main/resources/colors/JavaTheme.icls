@@ -1,0 +1,8 @@
+<scheme name="JavaTheme" version="142" parent_scheme="Default">
+  <colors>
+    <option name="CARET_ROW_COLOR" value="#e9ffe9" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="#f8fff8" />
+    <option name="EDITOR_BACKGROUND" value="#f8fff8" />
+    <option name="GUTTER_BACKGROUND" value="#f8fff8" />
+  </colors>
+</scheme>
